@@ -7,7 +7,7 @@ using Microsoft.UI.Xaml;
 using Microsoft.UI.Xaml.Controls;
 using System;
 
-namespace TSTC_Directory_Viewer_2
+namespace <Program_Namespace>
 {
     /// <summary>
     /// Wrapper for the WPF/WinUI ContentDialog to display a message dialog within the application
