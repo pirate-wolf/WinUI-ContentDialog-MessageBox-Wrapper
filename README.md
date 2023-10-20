@@ -13,4 +13,5 @@ The class contains 3 overloads of the Show() method. All take a Page as the firs
 
 **Future plans:**
 Handle return events
+
 More overloads/customization options. 
