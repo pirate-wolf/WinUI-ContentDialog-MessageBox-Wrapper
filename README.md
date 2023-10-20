@@ -13,6 +13,7 @@ The class contains 3 overloads of the Show() method. All take a Page as the firs
 **Show**(_Page, body, title, primaryButtonText, secondaryButtonText_) - Allows customization of the primary and secondary button text
 
 **Future plans:**
+
 Handle return events
 
 More overloads/customization options. 
