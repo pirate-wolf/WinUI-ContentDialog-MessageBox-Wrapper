@@ -1,4 +1,5 @@
 **# WinUI-ContentDialog-MessageBox-Wrapper-C#**
+
 A C# wrapper for the WPF/WinUI ContentDialog to display a message dialog within the application using the familiar MessageBox command from WinForms. I recently started working in WinUI coming from WinForms and wanted a familar tool to display even simple dialogs for troubleshooting, hence this was born. 
 
 I've separated and set a variable for the displayStyle and a public bool for displaying dialogs full size to allow for easier setting of these properties either in the class or separately. 
